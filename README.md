@@ -4,7 +4,7 @@
 germanという金融信用リスクがあるかを判断するクレジットスコアリングに関するデータセットを用いてrandomforestモデルを学習させ、分類を行い、精度を導出する
 # randomforest_german_10cv.py
 germanを用いてrandomforestモデルを学習させ、分類を行い、交差検証法を用いて精度を導出する
-# scikit-learn.ipynb
+# scikit_learn.ipynb
 TAとして作成したプログラムコード(授業資料)
 # xgboost_breastcancer.py
 breast cancerという各属性の値で良性（Benign）か悪性（Malignant）であるかを診断する乳がん診断のデータセットを用いてxgboostモデルを学習させ、分類を行い、精度を導出する
