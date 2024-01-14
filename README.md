@@ -1,5 +1,7 @@
 # SourceCode
 研究の一環で作成した表形式データを様々なモデルを用いて分類し、その精度を導出するプログラムをまとめた。※使用したデータセットについては載せていない
+# Kaggle-MountainDEW-ishikawa-m1
+研究室のゼミ生と一緒にKaggleのコンペに参加した際に使用したリポジトリ
 # randomforest_german.py
 germanという金融信用リスクがあるかを判断するクレジットスコアリングに関するデータセットを用いてrandomforestモデルを学習させ、分類を行い、精度を導出する
 # randomforest_german_10cv.py
