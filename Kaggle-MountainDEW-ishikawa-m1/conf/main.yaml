@@ -1,0 +1,8 @@
+defaults:
+  - _self_
+  - model: xgboost
+  - weight: weight
+
+flag: false
+flag_weight: True
+n_splits: 5
